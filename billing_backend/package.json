@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "datalayer": "file:datalayer"
+  }
+}
